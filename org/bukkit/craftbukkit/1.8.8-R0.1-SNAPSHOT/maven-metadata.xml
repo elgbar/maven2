@@ -1,0 +1,16 @@
+<metadata modelVersion="1.1.0">
+    <groupId>org.spigotmc</groupId>
+    <artifactId>spigot-api</artifactId>
+    <version>1.8.8-R0.1-SNAPSHOT</version>
+    <versioning>
+        <snapshot></snapshot>
+        <lastUpdated>20180811</lastUpdated>
+        <snapshotVersions>
+            <snapshotVersion>
+                <extension>jar</extension>
+                <value>1.8.8-R0.1-20180811.180646-1-sources</value>
+                <updated>20180811</updated>
+            </snapshotVersion>
+        </snapshotVersions>
+    </versioning>
+</metadata>

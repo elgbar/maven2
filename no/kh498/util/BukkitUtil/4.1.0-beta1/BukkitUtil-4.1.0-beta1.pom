@@ -61,6 +61,7 @@
                   <include>no.kh498.util:BukkitUtil-core</include>
                   <include>no.kh498.util:BukkitUtil-wg-6</include>
                   <include>no.kh498.util:BukkitUtil-wg-7</include>
+                  <include>no.kh498.util:BukkitUtil-jackson-module</include>
                 </includes>
               </artifactSet>
             </configuration>

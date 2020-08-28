@@ -1,9 +1,9 @@
-# kh498's Maven Repository
+# elgbar's Maven Repository
 
 ### Repository
 ```
 <repository>
-    <id>kh498</id>
-    <url>https://raw.githubusercontent.com/kh498/maven2/repo</url>
+    <id>elgbar</id>
+    <url>https://raw.githubusercontent.com/elgbar/maven2/repo</url>
 </repository>
 ```

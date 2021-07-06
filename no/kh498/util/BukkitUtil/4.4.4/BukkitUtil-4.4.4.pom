@@ -78,8 +78,8 @@
     </repository>
   </distributionManagement>
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <github.global.server>github</github.global.server>
     <maven2.repo.dir>${project.build.directory}/mvn-repo</maven2.repo.dir>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 </project>
